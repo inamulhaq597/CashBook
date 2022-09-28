@@ -36,3 +36,6 @@
     transform: rotate(360deg);
   }
 }
+.main_button {
+  @apply  lg:-mt-2 font-bold  hover:bg-gradient-to-r from-blue-900 to-gray-800  hover:text-white text-white border border-[#1F387E] rounded  py-3 px-4;
+  }
